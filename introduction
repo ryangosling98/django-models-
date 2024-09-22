@@ -1,0 +1,10 @@
+Django Models
+A Django model is a table in your database.
+
+Django allows us to work with data, without having to change or upload files in the process.
+
+Create Table (Model)
+
+To create a model, navigate to the models.py file in the /members/ folder.
+
+Open it, and add a Member table by creating a Member class, and describe the table fields in it:
